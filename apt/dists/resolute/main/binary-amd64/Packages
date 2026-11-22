@@ -1,38 +1,38 @@
 Package: hermes-screen-spawner
 Architecture: amd64
-Version: 0.5.1+ss0.2.2~ubuntu26.04
+Version: 0.5.1+ss0.2.3~ubuntu26.04
 Priority: optional
 Section: devel
 Maintainer: itkawa <10118073+itkawa@users.noreply.github.com>
-Installed-Size: 71251
+Installed-Size: 71260
 Depends: libevdi1, libavahi-client3, libavahi-common3, libxrandr2, libxfixes3, libxcb-shm0, libxcb-xfixes0, libgbm1, libva-drm2, libva-x11-2, libegl1, libgl1, libqt5svg5, x11-xserver-utils, libglib2.0-bin, libc6 (>= 2.43), libcap2 (>= 1:2.10), libcurl4t64 (>= 7.63.0), libdrm2 (>= 2.4.109), libevdev2 (>= 0.9.1), libgbm1 (>= 21.1.0), libgcc-s1 (>= 4.3), libminiupnpc21 (>= 2.3.3), libnuma1 (>= 2.0.11), libopus0 (>= 1.1), libpulse0 (>= 0.99.1), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5widgets5t64 (>= 5.9.0~beta), libssl3t64 (>= 3.0.0), libstdc++6 (>= 14), libsystemd0 (>= 237), libva-drm2 (>= 1.1.0), libva2 (>= 2.9.0), libwayland-client0 (>= 1.20.0)
 Conflicts: hermes
-Filename: pool/main/h/hermes-screen-spawner/hermes-screen-spawner_0.5.1+ss0.2.2_ubuntu26.04_amd64.deb
-Size: 14283284
-MD5sum: 0e2e35cdfcf245b2c7ea2939ec91e98f
-SHA1: d9aae67311267ded4ff5f9ff0e526d4a919e2b9f
-SHA256: 13365ba7a5d4b07acecba417f3412a551f2adf7205fefdd2cad39cb07bdac268
-SHA512: 6dca43a372e47c47e651dc1235c829e5134827e2974b1c2e9f1769d76dcc5b560e0ed5086cdfdcf526b7c02271cc2ddc830807b5d25418b79200ea46a3fb4278
+Filename: pool/main/h/hermes-screen-spawner/hermes-screen-spawner_0.5.1+ss0.2.3_ubuntu26.04_amd64.deb
+Size: 14283074
+MD5sum: de229aa9cccd945795cd5bcff6b4be5e
+SHA1: ec5d1a69ba38c838e72cd8356127e441758dbabc
+SHA256: 0746c2e4e0b43724b1fd1ea78d9ac5e4c5cb32c4fe349ce0a3e2675d84435be8
+SHA512: f83897cdfb1f472e6d8d93b02b2cac946c4c5eac481fe64133ed2415a4677bb0c12d5bc01b2071edf15a3ceb41dc44832a1fb2b6b7b873346e5c7d68d3afe8d1
 Homepage: https://github.com/itkawa/screen-spawner
 Description: Hermes with the Screen Spawner EVDI patch
- Hermes 0.5.1 modified for Screen Spawner 0.3.0. GPL-3.0.
+ Hermes 0.5.1 modified for Screen Spawner 0.3.2. GPL-3.0.
 
 Package: screen-spawner
 Architecture: all
-Version: 0.3.1-2
+Version: 0.3.2-1
 Priority: optional
 Section: x11
 Maintainer: itkawa <10118073+itkawa@users.noreply.github.com>
-Installed-Size: 784
+Installed-Size: 760
 Depends: hermes-screen-spawner (>= 0.5.1+ss0.2.0~), evdi-dkms, kmod, python3, python3-gi, gir1.2-gtk-3.0, gir1.2-ayatanaappindicator3-0.1, x11-xserver-utils, pkexec | policykit-1
 Recommends: linux-headers-generic | linux-headers-amd64, intel-media-va-driver | intel-media-va-driver-non-free
 Suggests: gnome-shell-extension-appindicator | gnome-shell-extension-ubuntu-appindicators
-Filename: pool/main/s/screen-spawner/screen-spawner_0.3.1-2_all.deb
-Size: 382944
-MD5sum: ade65962dca013b2a1626b2e0c3f87ff
-SHA1: 03f287f896e20169862eaec5393ce7f9fd787ba0
-SHA256: e1214f78113d39497cdb13d172aeea3f189dfa978e6f9ed2a10369cd7e02b9d4
-SHA512: f6351a501c131c522416ad15598e8a04dae4c180d54ee0a4921e31ba7695ef2b5e2367c74303bf28187b372ae6841849a03519c14779e0fc7e3965e577a6c8a7
+Filename: pool/main/s/screen-spawner/screen-spawner_0.3.2-1_all.deb
+Size: 359988
+MD5sum: 8f027c9b4967e6e399a54eb9355821aa
+SHA1: 19e7725ed898230e361a383b714e2321f1416d44
+SHA256: 624c10a9040a5c70efda17c1f1f33a1e3f7e0c6f52c6fb59d4fdfa65fe35f945
+SHA512: 8d6b08ca90f7c0a47a1a4e802212e78056fd25d576bac18385aeb6ef6d39fe323a5c92c114b6e69c2594270040af981e9a92f8a4487b22087aca63024d58568c
 Homepage: https://github.com/itkawa/screen-spawner
 Description: Android tablet or phone as a second monitor over Wi-Fi
  Screen Spawner turns an Android tablet or phone into a wireless second,

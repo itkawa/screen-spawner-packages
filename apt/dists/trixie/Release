@@ -1,20 +1,20 @@
 Architectures: amd64
 Codename: trixie
 Components: main
-Date: Sun, 22 Nov 2026 13:55:57 +0000
+Date: Sun, 22 Nov 2026 22:17:33 +0000
 Description: Screen Spawner and its Hermes for trixie
 Label: Screen Spawner
 Origin: Screen Spawner
 Suite: trixie
 MD5Sum:
- 79cc0081962545a5e0aa8c3b9f606812             2828 main/binary-amd64/Packages
- ba8f6d161805653012da8644cfe65b14             1412 main/binary-amd64/Packages.gz
+ 39f232d154cfb9f4c9c67c6d7620d214             2828 main/binary-amd64/Packages
+ 77983412fc42889420ee3e5fa6b31a5e             1414 main/binary-amd64/Packages.gz
 SHA1:
- fa78159bb03716eaa741b68a7eaebefcec2f1f2f             2828 main/binary-amd64/Packages
- 7779578fa0e4f909dd344dd0ffeb460ed9a72084             1412 main/binary-amd64/Packages.gz
+ 8ba2f35e87c9333fe7a8a2d56258bfa533058b76             2828 main/binary-amd64/Packages
+ 0cfdbd12b8f7c35b19dc7f5e317bae4f6ae52f9c             1414 main/binary-amd64/Packages.gz
 SHA256:
- 5d6886f999d74d43e66873f2a93e77af06dabdfd4daf1bc439237258b27dd49e             2828 main/binary-amd64/Packages
- 15ef7fa007986e119e0426b8fe62266bf4fb22be7150d24f0d0a963de0f106d8             1412 main/binary-amd64/Packages.gz
+ 40aa4b2892bc054e8da2f9251e30a9554ea801c0538f8749c4f810c8f209d3a7             2828 main/binary-amd64/Packages
+ 73295541a5a06a9262be4a662118e6a8174fd0536efe127985358fc2142f1f85             1414 main/binary-amd64/Packages.gz
 SHA512:
- d3044796c84f2b93524091a9c8f93e459d2f0674ee28dd55bcc1060f8fcc79e4956aa72c76e816af371eef345efdd1ed849da3ad7416a89a6beaf9a4b7bf4f01             2828 main/binary-amd64/Packages
- 9bc159f00c4be20c6df301540dc9af0fd9bdbfd50d7ead2bdbe9c69b7788bc8ae782dc9e1094adc3b56c665425a901e6f50e935855ad1aaf443db0edf71a297f             1412 main/binary-amd64/Packages.gz
+ a5650368bf3dfd213453d9699221c060464b93cd162e582b6f6584d7d5ae50dde4d215ff513d6fc0ac66c16b3db420efc7f71dc6eacbcab8154ca797433fdc7c             2828 main/binary-amd64/Packages
+ eba86181666f9e966666d91e184d58a030d1cc6747e750c2eaf50140d73d4be28a2235caeee4ecea63fb3c151ce5b9bcab88a76999a8ca0b62fe7f3b088d58ed             1414 main/binary-amd64/Packages.gz
