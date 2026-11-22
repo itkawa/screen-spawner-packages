@@ -1,20 +1,20 @@
 Architectures: amd64
 Codename: resolute
 Components: main
-Date: Sat, 21 Nov 2026 21:36:49 +0000
+Date: Sun, 22 Nov 2026 13:55:57 +0000
 Description: Screen Spawner and its Hermes for resolute
 Label: Screen Spawner
 Origin: Screen Spawner
 Suite: resolute
 MD5Sum:
- 431f5decccaa4cf5cc3e2e3214c78335             2834 main/binary-amd64/Packages
- 9d3eaa71e40106f017a77d80b10c0ca9             1414 main/binary-amd64/Packages.gz
+ bad5c7efdf0fed126c88606caf0eb6d6             2838 main/binary-amd64/Packages
+ 63e6e5b6a59aca7ef4ba929ab31c3418             1416 main/binary-amd64/Packages.gz
 SHA1:
- 788554e1f2ef9ea0510d0c43f76c147fac6d972d             2834 main/binary-amd64/Packages
- 73b2f7d8f336a362452b669212c6bb657bd72a5e             1414 main/binary-amd64/Packages.gz
+ f5caadfddd45dad515196abc050ff3cc19b425e3             2838 main/binary-amd64/Packages
+ c048b99f0acfe1abcedcd20aaed39c84917c6116             1416 main/binary-amd64/Packages.gz
 SHA256:
- 5c6e428831bc648a4802c22da3ba7f5ce297115ecee1f220765d5664e2a18b31             2834 main/binary-amd64/Packages
- 65840fa9169aedea8ac4e52b47175d3e11ec45923617dacfb9d5de0a58881e8b             1414 main/binary-amd64/Packages.gz
+ 2a8d0128adabb08fd6dd53ec176b223488fe27ef6a7d725f24dc5914d66ac4fa             2838 main/binary-amd64/Packages
+ b7ae0d378c9c91edaf6cdb30e1c0a6ba627b72be8e5eaa3c842bfed7016ef801             1416 main/binary-amd64/Packages.gz
 SHA512:
- 190bd2d41fba595e72597ac928f797392ddaa06ae1d26cbe123d87b0463fd66fe9ceb8f0724bcfd9721d623843402cc18e0771d83f95813dc4072dd1f66b7843             2834 main/binary-amd64/Packages
- 3a8033108077c8d25cd2fdae4f141427f7fa4690933415f1431a3a0ec5f2cf3b1b18f7b08122d45638b93e6fd74ed1b532d3ccb890b4918c64f74c47ca9ac5c3             1414 main/binary-amd64/Packages.gz
+ 73f2db224c332e503e936b0421b46d21d8d0aebb3e19624ed8cf5c86f346901a4df7bb4e6a96398edec034f8067b0ffed67e4b6b71bc1b71bd26be674b6802d3             2838 main/binary-amd64/Packages
+ d2252439317d69edf0299c57385580a8d6ca35bc4c208105f7b636d7ecc534e92adafdd1f0ce1cb678059d57f3821e0a849ae01d7840096ac3b2ae9dd79ccb85             1416 main/binary-amd64/Packages.gz

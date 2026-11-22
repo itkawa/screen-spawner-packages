@@ -19,20 +19,20 @@ Description: Hermes with the Screen Spawner EVDI patch
 
 Package: screen-spawner
 Architecture: all
-Version: 0.3.1
+Version: 0.3.1-2
 Priority: optional
 Section: x11
 Maintainer: itkawa <10118073+itkawa@users.noreply.github.com>
-Installed-Size: 732
+Installed-Size: 784
 Depends: hermes-screen-spawner (>= 0.5.1+ss0.2.0~), evdi-dkms, kmod, python3, python3-gi, gir1.2-gtk-3.0, gir1.2-ayatanaappindicator3-0.1, x11-xserver-utils, pkexec | policykit-1
 Recommends: linux-headers-generic | linux-headers-amd64, intel-media-va-driver | intel-media-va-driver-non-free
 Suggests: gnome-shell-extension-appindicator | gnome-shell-extension-ubuntu-appindicators
-Filename: pool/main/s/screen-spawner/screen-spawner_0.3.1_all.deb
-Size: 379620
-MD5sum: cc440183025cea6803ccffac4fbaf325
-SHA1: 54c6680351b3a969e6d89ffd0d3f3fa10c992797
-SHA256: b3d2b222797e4feeaffd3b6e3141045e649981cdcb12c32cfd00995459081658
-SHA512: 04c8d39f5c8d89d72147cb06b86d1eea84b0311852cbdd1e846791d9bda0d8d9197d745142bfb879ee00cfc57cb2f8043220bef4f2260464c02a4eb870ad165d
+Filename: pool/main/s/screen-spawner/screen-spawner_0.3.1-2_all.deb
+Size: 382944
+MD5sum: ade65962dca013b2a1626b2e0c3f87ff
+SHA1: 03f287f896e20169862eaec5393ce7f9fd787ba0
+SHA256: e1214f78113d39497cdb13d172aeea3f189dfa978e6f9ed2a10369cd7e02b9d4
+SHA512: f6351a501c131c522416ad15598e8a04dae4c180d54ee0a4921e31ba7695ef2b5e2367c74303bf28187b372ae6841849a03519c14779e0fc7e3965e577a6c8a7
 Homepage: https://github.com/itkawa/screen-spawner
 Description: Android tablet or phone as a second monitor over Wi-Fi
  Screen Spawner turns an Android tablet or phone into a wireless second,

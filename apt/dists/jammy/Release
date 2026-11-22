@@ -1,20 +1,20 @@
 Architectures: amd64
 Codename: jammy
 Components: main
-Date: Sat, 21 Nov 2026 21:36:49 +0000
+Date: Sun, 22 Nov 2026 13:55:57 +0000
 Description: Screen Spawner and its Hermes for jammy
 Label: Screen Spawner
 Origin: Screen Spawner
 Suite: jammy
 MD5Sum:
- 8cdd8bf155b00c5ed4bf24bc58b8306f             2809 main/binary-amd64/Packages
- c6a14f1a999ecb8e3e14b6efe58f1892             1410 main/binary-amd64/Packages.gz
+ 2033a6638534e65e9930fab090d75f70             2813 main/binary-amd64/Packages
+ a85aaa87ccf35263dda1141d1e5c95ad             1414 main/binary-amd64/Packages.gz
 SHA1:
- 9a1bebb84e9fb6f9d85c76b297fcf85d6861bcb1             2809 main/binary-amd64/Packages
- 65e11fc6a44cd1ac578629c0ba418346fdb5f177             1410 main/binary-amd64/Packages.gz
+ ba61a46515e5f0c5d9d6ac1afa03ec5bc99e6b90             2813 main/binary-amd64/Packages
+ 7a134ed85401a9e07bc10854c59a7a46fa8744f1             1414 main/binary-amd64/Packages.gz
 SHA256:
- c093a26306b71185730c43e6c54122bcf414c345f4735b346f96d8d79efc248d             2809 main/binary-amd64/Packages
- 2373868d89337d1305eba6689ff4ee515eb0665ad76408df7f5c04f4547e311f             1410 main/binary-amd64/Packages.gz
+ 7a85a41b4fa2a1c593aecbefc6d9632df52c338fd8f4323d7103f4c11809815d             2813 main/binary-amd64/Packages
+ 48d12f7687978df6efb35e9cc50bf54248a93f843dd24df2ad7aef11d23596fa             1414 main/binary-amd64/Packages.gz
 SHA512:
- 3624125dfe43f90aa7a77843a00f4576563991bf77506a3edc9cdb95956594f46fa6b3c4ad557b96df24e46e38b39e73a4eee18672fd0ec042b5e9c057ed66ac             2809 main/binary-amd64/Packages
- 9ecce5687cb4acdcda9de74ead497ffe52971b72bce7c893106c4da70da92126cb55edc006fbf3a43d74899ef2eecf3139dbaedea76f85b52aa1fe6c936f8aaf             1410 main/binary-amd64/Packages.gz
+ 17f079a9e9ff8fab202d6013fa914cded1dcb185023d803b80b535b44bfaba7d2239ab32763f374ed70f48cae23cb2362fd51c093898083dae713eff6bf1a33d             2813 main/binary-amd64/Packages
+ 602261bd4945c476abc9256f63b37f7c9bcc4244ec9346c3fb1c2776453c156090f83657498af1f43f8c4c4ccfba8beba63f059e2cf8fabb94d469a5664369d2             1414 main/binary-amd64/Packages.gz
