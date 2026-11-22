@@ -1,0 +1,20 @@
+Architectures: amd64
+Codename: jammy
+Components: main
+Date: Sat, 21 Nov 2026 21:36:49 +0000
+Description: Screen Spawner and its Hermes for jammy
+Label: Screen Spawner
+Origin: Screen Spawner
+Suite: jammy
+MD5Sum:
+ 8cdd8bf155b00c5ed4bf24bc58b8306f             2809 main/binary-amd64/Packages
+ c6a14f1a999ecb8e3e14b6efe58f1892             1410 main/binary-amd64/Packages.gz
+SHA1:
+ 9a1bebb84e9fb6f9d85c76b297fcf85d6861bcb1             2809 main/binary-amd64/Packages
+ 65e11fc6a44cd1ac578629c0ba418346fdb5f177             1410 main/binary-amd64/Packages.gz
+SHA256:
+ c093a26306b71185730c43e6c54122bcf414c345f4735b346f96d8d79efc248d             2809 main/binary-amd64/Packages
+ 2373868d89337d1305eba6689ff4ee515eb0665ad76408df7f5c04f4547e311f             1410 main/binary-amd64/Packages.gz
+SHA512:
+ 3624125dfe43f90aa7a77843a00f4576563991bf77506a3edc9cdb95956594f46fa6b3c4ad557b96df24e46e38b39e73a4eee18672fd0ec042b5e9c057ed66ac             2809 main/binary-amd64/Packages
+ 9ecce5687cb4acdcda9de74ead497ffe52971b72bce7c893106c4da70da92126cb55edc006fbf3a43d74899ef2eecf3139dbaedea76f85b52aa1fe6c936f8aaf             1410 main/binary-amd64/Packages.gz

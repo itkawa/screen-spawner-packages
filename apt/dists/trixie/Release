@@ -1,0 +1,20 @@
+Architectures: amd64
+Codename: trixie
+Components: main
+Date: Sat, 21 Nov 2026 21:36:49 +0000
+Description: Screen Spawner and its Hermes for trixie
+Label: Screen Spawner
+Origin: Screen Spawner
+Suite: trixie
+MD5Sum:
+ c0290b39636b26112d0d9710b966d591             2824 main/binary-amd64/Packages
+ 3c61692a917677fa10f55d30df992b45             1409 main/binary-amd64/Packages.gz
+SHA1:
+ 4f1171a046e6da3bd3184b8be625b9994495f556             2824 main/binary-amd64/Packages
+ cfcacf3529aba2b899ff0e2b159e6dc5c46ff8a0             1409 main/binary-amd64/Packages.gz
+SHA256:
+ 3de5c7624138265327dd16f5777592609c8af5028789dc09279f44669b95f822             2824 main/binary-amd64/Packages
+ bb9e15ffd10563c8271feb1ae8c224e42581844a018e9e806927fd23ed5ac3da             1409 main/binary-amd64/Packages.gz
+SHA512:
+ f83529ddffd59da2d40d4478462a8a236f9a42d79847481f569d244b5d71edb38175958f8c2a66034519494339e4e8def4f67cc1b6427bdf648c5c47fce6e332             2824 main/binary-amd64/Packages
+ bcfce7e37ec17c99c576adc2157a5f2a24eb64102fac9d244fa7c848877c0856ef6e4e733cf5b6aaf248f105bb79c080fb2ed4d6bae4ba9cd6e5c398428d9eb2             1409 main/binary-amd64/Packages.gz
